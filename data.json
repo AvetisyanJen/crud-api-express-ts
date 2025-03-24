@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": 1742840875654,
+      "name": "KA",
+      "email": "je@example.com",
+      "password": "$2b$10$WyLWLmlSSOVairLReaJKQOjZdDClERjio8APU7wVw.MLTP9Zs1r1e",
+      "createdAt": "2025-03-24T18:27:55.654Z"
+    }
+  ]
+}
