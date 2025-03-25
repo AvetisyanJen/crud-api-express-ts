@@ -1,11 +1,18 @@
 {
   "users": [
     {
-      "id": 1742840875654,
-      "name": "KA",
-      "email": "je@example.com",
-      "password": "$2b$10$WyLWLmlSSOVairLReaJKQOjZdDClERjio8APU7wVw.MLTP9Zs1r1e",
-      "createdAt": "2025-03-24T18:27:55.654Z"
+      "id": 1742913497300,
+      "name": "Artur",
+      "email": "art@example.com",
+      "password": "$2b$10$nq6iKrSLIGLgUJfqKfHW9u2e4.iQUFvRI31RBHH.3ldPCXFmn.iOy",
+      "createdAt": "2025-03-25T14:38:17.300Z"
+    },
+    {
+      "id": 1742913519658,
+      "name": "Armen",
+      "email": "arm@example.com",
+      "password": "$2b$10$7xLVvLhnlmTm5Ogx7kld9etSpx669vJ6p9bJgnZHoVFMakShmEYKi",
+      "createdAt": "2025-03-25T14:38:39.658Z"
     }
   ]
 }
